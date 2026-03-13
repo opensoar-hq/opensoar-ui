@@ -1,6 +1,6 @@
 # OpenSOAR UI
 
-React frontend for the [OpenSOAR](https://github.com/opensoar-hq/opensoar) SOAR platform.
+React frontend for the [OpenSOAR](https://github.com/opensoar-hq/opensoar-core) SOAR platform.
 
 ## Stack
 
@@ -29,4 +29,4 @@ docker run -p 3000:80 opensoar-ui
 
 ## Part of OpenSOAR
 
-This is the frontend module of the OpenSOAR platform. See the [main repo](https://github.com/opensoar-hq/opensoar) for full documentation.
+This is the frontend module of the OpenSOAR platform. See the [main repo](https://github.com/opensoar-hq/opensoar-core) for full documentation.
